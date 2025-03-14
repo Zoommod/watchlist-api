@@ -156,3 +156,4 @@
 /home/Zoom/Documents/WatchList/obj/Debug/net9.0/WatchList.pdb
 /home/Zoom/Documents/WatchList/obj/Debug/net9.0/WatchList.genruntimeconfig.cache
 /home/Zoom/Documents/WatchList/obj/Debug/net9.0/ref/WatchList.dll
+/home/Zoom/Documents/WatchList/obj/Debug/net9.0/WatchList.sourcelink.json
